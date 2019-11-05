@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo_pacientes.xsl"?>
+<pacientes>
+  <paciente>
+    <dni>1606081064699</dni>
+    <nss>1681061440499</nss>
+    <nombre>Alexander</nombre>
+    <apellido>Simmons</apellido>
+    <direccion>791-7652 Sed, Rd.</direccion>
+    <codigo_postal>361259</codigo_postal>
+    <telefono>565405578</telefono>
+    <fecha_nacimiento>1966-02-15</fecha_nacimiento>
+    <localidad>Rewa</localidad>
+    <provincia>MP</provincia>
+	<hospital_nombre>Hospital Logan Woodard</hospital_nombre>
+	<hospital_id>1613011909</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1629080376499</dni>
+    <nss>1655112002599</nss>
+    <nombre>Gary</nombre>
+    <apellido>Fleming</apellido>
+    <direccion>P.O. Box 952, 1049 Ligula Road</direccion>
+    <codigo_postal>36081431</codigo_postal>
+    <telefono>909501668</telefono>
+    <fecha_nacimiento>1981-06-12</fecha_nacimiento>
+    <localidad>Galway</localidad>
+    <provincia>Connacht</provincia>
+	<hospital_nombre>Hospital Logan Woodard</hospital_nombre>
+	<hospital_id>1613011909</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1631100221099</dni>
+    <nss>1658051303699</nss>
+    <nombre>India</nombre>
+    <apellido>Bass</apellido>
+    <direccion>351-3643 Mauris, Rd.</direccion>
+    <codigo_postal>40863</codigo_postal>
+    <telefono>352448692</telefono>
+    <fecha_nacimiento>1962-01-03</fecha_nacimiento>
+    <localidad>Chesapeake</localidad>
+    <provincia>VA</provincia>
+	<hospital_nombre>Hospital Robert Gardner</hospital_nombre>
+	<hospital_id>1615123069</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1643081663899</dni>
+    <nss>1631121636299</nss>
+    <nombre>Brandon</nombre>
+    <apellido>Rose</apellido>
+    <direccion>Ap #335-2246 Iaculis Street</direccion>
+    <codigo_postal>11416</codigo_postal>
+    <telefono>305631167</telefono>
+    <fecha_nacimiento>1976-01-26</fecha_nacimiento>
+    <localidad>Mogi das Cruzes</localidad>
+    <provincia>SP</provincia>
+	<hospital_nombre>Clinica Robert Bishop</hospital_nombre>
+	<hospital_id>1621062729</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1646110887799</dni>
+    <nss>1631012626199</nss>
+    <nombre>Bell</nombre>
+    <apellido>Grant</apellido>
+    <direccion>P.O. Box 414, 5330 Ut Road</direccion>
+    <codigo_postal>868</codigo_postal>
+    <telefono>700889904</telefono>
+    <fecha_nacimiento>1983-11-18</fecha_nacimiento>
+    <localidad>Thames</localidad>
+    <provincia>North Island</provincia>
+	<hospital_nombre>Hospital Cyrus Ware</hospital_nombre>
+	<hospital_id>1626100674</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1653080585699</dni>
+    <nss>1680010120999</nss>
+    <nombre>Jordan</nombre>
+    <apellido>Flores</apellido>
+    <direccion>655-4563 Eget Rd.</direccion>
+    <codigo_postal>222</codigo_postal>
+    <telefono>226183948</telefono>
+    <fecha_nacimiento>1963-08-15</fecha_nacimiento>
+    <localidad>Bauchi</localidad>
+    <provincia>BA</provincia>
+	<hospital_nombre>Clinica Ivor Deleon</hospital_nombre>
+	<hospital_id>1630120535</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1654092843699</dni>
+    <nss>1656040856899</nss>
+    <nombre>Camille</nombre>
+    <apellido>Alvarado</apellido>
+    <direccion>3213 Turpis Rd.</direccion>
+    <codigo_postal>725271</codigo_postal>
+    <telefono>222705760</telefono>
+    <fecha_nacimiento>1998-08-14</fecha_nacimiento>
+    <localidad>Dublin</localidad>
+    <provincia>Leinster</provincia>
+	<hospital_nombre>Hospital Cedric Michael</hospital_nombre>
+	<hospital_id>1638080873</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1666100580799</dni>
+    <nss>1695123028299</nss>
+    <nombre>Garrison</nombre>
+    <apellido>Phillips</apellido>
+    <direccion>4472 Dolor. Rd.</direccion>
+    <codigo_postal>7726</codigo_postal>
+    <telefono>221052452</telefono>
+    <fecha_nacimiento>1979-07-15</fecha_nacimiento>
+    <localidad>Hannche</localidad>
+    <provincia>Luik</provincia>
+	<hospital_nombre>Hospital Ezekiel Pope</hospital_nombre>
+	<hospital_id>1651083085</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1669122306299</dni>
+    <nss>1620112021699</nss>
+    <nombre>Cole</nombre>
+    <apellido>Mcintyre</apellido>
+    <direccion>Ap #352-260 Ultrices Rd.</direccion>
+    <codigo_postal>44802</codigo_postal>
+    <telefono>480138015</telefono>
+    <fecha_nacimiento>1996-02-17</fecha_nacimiento>
+    <localidad>Kedzierzyn-Kozle</localidad>
+    <provincia>OP</provincia>
+	<hospital_nombre>Clinica Barry Casey</hospital_nombre>
+	<hospital_id>1651111443</hospital_id>
+  </paciente>
+  <paciente>
+    <dni>1687023091799</dni>
+    <nss>1650011663799</nss>
+    <nombre>Jason</nombre>
+    <apellido>Witt</apellido>
+    <direccion>Ap #382-9548 Rutrum Avenue</direccion>
+    <codigo_postal>20206</codigo_postal>
+    <telefono>827409711</telefono>
+    <fecha_nacimiento>1983-09-10</fecha_nacimiento>
+    <localidad>Quesada</localidad>
+    <provincia>Alajuela</provincia>
+	<hospital_nombre>Clinica Shad Macias</hospital_nombre>
+	<hospital_id>1654081629</hospital_id>
+  </paciente>
+</pacientes>
