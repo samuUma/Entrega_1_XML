@@ -10,15 +10,23 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <th>Apellido</th>
         <th>Telefono</th>
         <th>Fecha de Nacimiento</th>
-        <th>Hospital</th>
+        <th colspan="4">Hospital</th>
       </tr>
-      <xsl:for-each select="pacientes/paciente">
-      <tr>
+      <xsl:for-each select="/hospital/pacientes/paciente">
+        <tr>
+        <xsl:variable name="dni">
+          <xsl:value-of select="dni"/>
+        </xsl:variable>
         <td><xsl:value-of select="nombre"/></td>
         <td><xsl:value-of select="apellido"/></td>
         <td><xsl:value-of select="telefono"/></td>
         <td><xsl:value-of select="fecha_nacimiento"/></td>
-        <td><xsl:value-of select="hospital_nombre"/></td>
+        <xsl:for-each select="/hospital/ingresado_en/paciente">
+          <xsl:if test="$dni = current()/paciente_dni">
+              <td><xsl:value-of select="current()/hospital_nombre"/></td>
+          </xsl:if>
+  
+        </xsl:for-each>
       </tr>
       </xsl:for-each>
     </table>
